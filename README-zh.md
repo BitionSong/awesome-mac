@@ -24,15 +24,17 @@ Awesome Mac
 ✦ 我的 macOS 应用程序：
 
 <div style="display: inline_block">
-  <a target="_blank" href="https://wangchujiang.com/regex-mate/" title="RegexMate for macOS/iOS"><img align="center" alt="RegexMate" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
-  <a target="_blank" href="https://wangchujiang.com/time-passage/" title="Time Passage for macOS/iOS"><img align="center" alt="Time Passage" height="40" width="40" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
-  <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
-  <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS"><img align="center" alt="Textsound Saver" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
-  <a target="_blank" href="https://apps.apple.com/app/create-custom-symbols/id6476924627" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
-  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/a17d8424-9163-4cbb-bbee-a9b85c9d5b5e"></a>
-  <a target="_blank" href="https://wangchujiang.com/ResumeRevise/" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
-  <a target="_blank" href="https://apps.apple.com/app/palettegenius/id6472593276" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
-  <a target="_blank" href="https://apps.apple.com/app/symbolscribe/id6470879005" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
+  <a target="_blank" href="https://wangchujiang.com/copybook-generator/" title="宝宝字帖 for macOS/iOS"><img align="center" alt="宝宝字帖" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
+  <a target="_blank" href="https://wangchujiang.com/devtutor/" title="SwiftUI 辅导 for macOS/iOS"><img align="center" alt="SwiftUI 辅导" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
+  <a target="_blank" href="https://wangchujiang.com/regex-mate/" title="RegexMate for macOS/iOS"><img align="center" alt="RegexMate" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
+  <a target="_blank" href="https://wangchujiang.com/time-passage/" title="Time Passage for macOS/iOS"><img align="center" alt="Time Passage" height="50" width="50" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
+  <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
+  <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS/iOS"><img align="center" alt="Textsound Saver" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
+  <a target="_blank" href="https://wangchujiang.com/create-custom-symbols/" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
+  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/6d38923c-b97d-4687-9601-9865bd0eea1a"></a>
+  <a target="_blank" href="https://wangchujiang.com/ResumeRevise/" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
+  <a target="_blank" href="https://wangchujiang.com/palette-genius/" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
+  <a target="_blank" href="https://wangchujiang.com/symbol-scribe/" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
 </div>
 
 <!--idoc:ignore:start-->
@@ -107,15 +109,15 @@ Awesome Mac
 
 ## 开发者工具
 
-
 ### 编辑器
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
+* [Aurora Editor](https://auroraeditor.com/) - 适用于 macOS 的轻量级代码编辑器 (IDE)。 [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
-* [Nova](http://panic.com/coda/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
+* [Nova](https://nova.app/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
 * [Espresso](http://espressoapp.com/) - Web 编程利器，具备了快速且强大的编辑功能、专业检查与分类、即时预览编辑成果、发布与同步功能等。
@@ -860,6 +862,8 @@ Awesome Mac
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]]
+* [Dropshelf](https://pilotmoon.com/dropshelf/) - 一款拖放文件辅助工具，可以将文件放在一个悬浮窗以方便移动到其他位置。![Freeware][Freeware Icon]
+* [Dropover](https://dropoverapp.com/) - 一款拖放文件、文本辅助工具，可以在无需打开并排窗口的情况下，将可拖动内容存储、收集或移动，比 Dropshelf 功能更加丰富。[![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
 
 
 ### 剪贴板工具
@@ -1077,33 +1081,16 @@ Awesome Mac
 
 **[⬆ 返回顶部](#目录)**
 
-
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "开源软件"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "免费软件"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "苹果应用商店软件"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
-
 
 ## Contributors
 
 This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/jaywcjlove/awesome-mac/graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
-
-<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/awesome-mac#sponsor)
-
-<a href="https://opencollective.com/awesome-mac/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/0/avatar.svg"></a>
-
 
 ## License
 
